@@ -1,8 +1,8 @@
-CryptoVision 🪙
+# CryptoVision 🪙
 
 CryptoVision is a sleek and powerful cryptocurrency tracking application built with SwiftUI. It allows users to monitor real-time prices, manage their portfolios, and stay updated with the latest market news, all within a beautifully designed, intuitive interface.
 
-🚀 Features
+# 🚀 Features
 
 📈 Real-Time Price Tracking: View live cryptocurrency prices and market data.
 
@@ -20,23 +20,10 @@ CryptoVision is a sleek and powerful cryptocurrency tracking application built w
 
 🔍 Search Functionality: Quickly find any cryptocurrency from the list.
 
-📸 App Preview
-
-(It's highly recommended to add screenshots of your app here to showcase its features and UI. You can replace the placeholder links with your own images.)
-
-Watchlist View
-
-Portfolio View
-
-Coin Detail View
 
 
 
-
-
-
-
-🛠️ Technologies & Frameworks Used
+# 🛠️ Technologies & Frameworks Used
 
 UI Framework: SwiftUI
 
@@ -50,7 +37,7 @@ Charts: Native SwiftUI Charts for data visualization.
 
 Persistence: Core Data or UserDefaults for storing portfolio and watchlist data locally.
 
-✅ Requirements
+# ✅ Requirements
 
 iOS 16.0+
 
@@ -59,31 +46,12 @@ Xcode 14.0+
 Swift 5.7+
 
 
-⚙️ Installation & Setup
 
-To get this project running on your local machine, follow these simple steps:
-
-Clone the repository:
-
-git clone [https://github.com/your-username/CryptoVision.git](https://github.com/your-username/CryptoVision.git)
-
-
-Navigate to the project directory:
-
-cd CryptoVision
-
-
-Open the project in Xcode:
-
-open CryptoVision.xcodeproj
-
-
-
-📄 License
+# 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-📬 Contact
+# 📬 Contact
 
 Your Name - Kushagra Sharma
 
